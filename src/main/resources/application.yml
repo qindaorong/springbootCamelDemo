@@ -1,0 +1,6 @@
+server:
+    port: 8080
+
+cxfserver:
+    serviceClass: serviceClass=com.qindaorong.springboot.webservice.CamelCXFServiceInter
+    wsdlLocation: wsdlURL=wsdl/queryService.wsdl

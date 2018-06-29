@@ -1,0 +1,7 @@
+com\qindaorong\springboot\enums\RouteTopicEnum.class
+com\qindaorong\springboot\controller\TestController.class
+com\qindaorong\springboot\Application.class
+com\qindaorong\springboot\enums\RouteGroupEnum.class
+com\qindaorong\springboot\config\CxfConfig.class
+com\qindaorong\springboot\webservice\CamelCXFServiceImplPortImpl.class
+com\qindaorong\springboot\webservice\CamelCXFServiceInter.class

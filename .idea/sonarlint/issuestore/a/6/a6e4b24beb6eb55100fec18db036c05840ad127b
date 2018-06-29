@@ -1,0 +1,9 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ˜Ú‡8¤˜Ð£Ä,
+gsquid:UselessImportCheck"9Remove this unused import 'javax.xml.ws.ResponseWrapper'.(°ºç¢ÿÿÿÿÿ8¤˜Ð£Ä,
+^squid:UselessImportCheck"0Remove this unused import 'javax.jws.WebMethod'.(žò£¼úÿÿÿÿ8¤˜Ð£Ä,
+Ysquid:UselessImportCheck"0Remove this unused import 'javax.jws.WebResult'.(¬ÁŽÙ8¤˜Ð£Ä,
+osquid:UselessImportCheck"ARemove this unused import 'javax.xml.bind.annotation.XmlSeeAlso'.(àê¼ñøÿÿÿÿ8¤˜Ð£Ä,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ˜Ú‡8¤˜Ð£Ä,
+Xsquid:UselessImportCheck"/Remove this unused import 'javax.jws.WebParam'.(Ä™‰8¤˜Ð£Ä,
+fsquid:UselessImportCheck"8Remove this unused import 'javax.xml.ws.RequestWrapper'.(×ñ„ûÿÿÿÿ8¤˜Ð£Ä,
